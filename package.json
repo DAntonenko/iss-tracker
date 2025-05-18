@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "leaflet-polylinedecorator": "^1.6.0",
+    "leaflet-terminator": "^0.1.0",
+    "suncalc": "^1.9.0",
     "the-new-css-reset": "^1.11.3"
   }
 }

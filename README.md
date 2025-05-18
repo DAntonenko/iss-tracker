@@ -13,7 +13,7 @@ npm install
 For running the development server:
 
 ```bash
-npm dev
+npm start
 ```
 
 [http://localhost:3000](http://localhost:3000)

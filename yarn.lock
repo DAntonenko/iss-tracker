@@ -95,6 +95,18 @@ is-fullwidth-code-point@^3.0.0:
   resolved "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
   integrity sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==
 
+leaflet-polylinedecorator@^1.6.0:
+  version "1.6.0"
+  resolved "https://registry.npmjs.org/leaflet-polylinedecorator/-/leaflet-polylinedecorator-1.6.0.tgz"
+  integrity sha512-kn3krmZRetgvN0wjhgYL8kvyLS0tUogAl0vtHuXQnwlYNjbl7aLQpkoFUo8UB8gVZoB0dhI4Tb55VdTJAcYzzQ==
+  dependencies:
+    leaflet-rotatedmarker "^0.2.0"
+
+leaflet-rotatedmarker@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.npmjs.org/leaflet-rotatedmarker/-/leaflet-rotatedmarker-0.2.0.tgz"
+  integrity sha512-yc97gxLXwbZa+Gk9VCcqI0CkvIBC9oNTTjFsHqq4EQvANrvaboib4UdeQLyTnEqDpaXHCqzwwVIDHtvz2mUiDg==
+
 lodash@^4.17.21:
   version "4.17.21"
   resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"

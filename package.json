@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "concurrently": "^8.0.0"
+  },
+  "dependencies": {
+    "the-new-css-reset": "^1.11.3"
   }
 }
